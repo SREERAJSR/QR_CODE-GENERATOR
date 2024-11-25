@@ -1,6 +1,6 @@
 const QRCODE = require('qrcode');
 
-const websiteLink ='https://sreerajsr.github.io/QR_code-generator/'
+const websiteLink ='https://sreerajsr.github.io/BREAK_THROUGH/'
 QRCODE.toFile('qr_code.png', websiteLink, {
     color: {
         dark: '#000000',
